@@ -54,3 +54,7 @@ Notes
 - The server must be running before the client
 - The file must be in the same folder as the program
 - File content should be small (under 255 characters)
+<img width="512" height="280" alt="image" src="https://github.com/user-attachments/assets/32bd2dca-026c-4df3-b7ea-e9017d3eebaa" />
+<img width="447" height="288" alt="image" src="https://github.com/user-attachments/assets/3285384d-cf47-40ec-a82e-3b2b048d3220" />
+
+
